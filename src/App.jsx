@@ -39,7 +39,7 @@ function App() {
     <section className='text-gray-700 border-t' id="about">
       <div className='container mx-auto py-24 px-5'>
         <div className='text-center mb-20'>
-          <h1 className='text-2xl sm:text-3xl text-gray-900 font-medium mb-2'><a href="header">About Me</a></h1>
+          <h1 className='text-2xl sm:text-3xl text-gray-900 font-medium mb-2'><a href="#header">About Me</a></h1>
           <p className='pb-10'>私の趣味はプログラミングです。これまでに友人のリクエストに答えてウェブサイトやスマホアプリを作り、喜ばれました。まだ趣味の領域ですが、これからもっと勉強して、デザイン性の高いサイト作りに挑戦したいと思っています。</p>
         </div>
 
